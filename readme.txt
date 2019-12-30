@@ -1,3 +1,3 @@
-Hello Git
-exit;
-Modify file;
+Hello is Git
+exit is ;
+Modify is file;
